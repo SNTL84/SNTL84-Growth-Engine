@@ -1,6 +1,8 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SNTL84/SNTL84-Growth-Engine/main/assets/SNTL-84.jpg" alt="SNTL 84 Growth Engine Banner" width="100%" />
+  <a href="https://www.instagram.com/desibiztrade">
+    <img src="https://raw.githubusercontent.com/SNTL84/SNTL84-Growth-Engine/main/assets/SNTL-84-banner.jpg" alt="SNTL 84 Growth Engine" width="100%" />
+  </a>
 </p>
 
 <h1 align="center">🚀 SNTL 84 — Your Growth Engine</h1>
@@ -19,14 +21,14 @@
 
 ---
 
-> **"One Partner. Endless Possibilities. Real Growth."**  
+> **“One Partner. Endless Possibilities. Real Growth.”**  
 > We build the systems. You scale the business.
 
 ---
 
 ## 🏢 About SNTL 84
 
-**SNTL 84 — Milan** is a full-service growth engine for founders, businesses, and enterprises who want to automate what's costing them money and scale what's making them money.
+**SNTL 84 — Milan** is a full-service growth engine for founders, businesses, and enterprises who want to automate what’s costing them money and scale what’s making them money.
 
 Based in **Surat, India 🇮🇳 | Serving businesses worldwide** — we combine AI-powered automation, full-stack engineering, human bench resources, and intelligent supply chain systems into one integrated growth partner.
 
@@ -70,7 +72,7 @@ Based in **Surat, India 🇮🇳 | Serving businesses worldwide** — we combine
 ---
 
 ### 4. 🤖 AI Automation & Workflows
-> *Automate what's costing you money.*
+> *Automate what’s costing you money.*
 
 - ✅ Custom Workflow Automation (n8n, Zapier, Make, custom APIs)
 - ✅ Integrations (CRMs, ERPs, SaaS, databases)
@@ -126,20 +128,20 @@ Based in **Surat, India 🇮🇳 | Serving businesses worldwide** — we combine
 
 ### 👇 How to Register:
 
-1. **Follow** [@desibiztrade on Instagram](https://www.instagram.com/desibiztrade)
-2. **DM us** on [WhatsApp](https://wa.me/919727413309) with subject: `BUSINESS REGISTRATION`
-3. **Connect** on [LinkedIn: SNTL2784](https://linkedin.com/in/sntl2784)
-4. **Email** us at [3goldenlotusroots@gmail.com](mailto:3goldenlotusroots@gmail.com) with:
-   - Your Business Name
+1. 👉 **Follow** [@desibiztrade on Instagram](https://www.instagram.com/desibiztrade)
+2. 💬 **DM us** on [WhatsApp](https://wa.me/919727413309) — Subject: `BUSINESS REGISTRATION`
+3. 💼 **Connect** on [LinkedIn: SNTL2784](https://linkedin.com/in/sntl2784)
+4. 📧 **Email** [3goldenlotusroots@gmail.com](mailto:3goldenlotusroots@gmail.com) with:
+   - Business Name
    - Industry / Niche
    - Website / Social Link
-   - What you want promoted
+   - What you want promoted (Post / Reel / Story)
 
-> ⚡ Slots are filled on a first-come, first-served basis. **Act now before they're gone.**
+> ⚡ Slots are filled first-come, first-served. **Act now before they’re gone.**
 
 ---
 
-## 🔗 Follow & Connect
+## 🔗 Connect with SNTL 84
 
 | Platform | Link |
 |---|---|
@@ -166,7 +168,22 @@ Based in **Surat, India 🇮🇳 | Serving businesses worldwide** — we combine
 📍 Surat, India 🇮🇳 | Serving founders and businesses worldwide  
 🏢 Golden Lotus · DesiDevloper  
 
-> *"We build systems that work 24/7 so you don't have to."*
+> *“We build systems that work 24/7 so you don’t have to.”*
+
+---
+
+### 🗒️ Repo Files
+
+| File | Description |
+|---|---|
+| [README.md](./README.md) | Full brand showcase & service details |
+| [SERVICES.md](./SERVICES.md) | Detailed service breakdown |
+| [BUSINESS-REGISTRATION.md](./BUSINESS-REGISTRATION.md) | Register your business for featured slots |
+| [assets/](./assets/) | Brand thumbnails & media |
+
+---
+
+> 📒 **Thumbnail Note:** To display the banner image, upload your `SNTL-84.jpg` file to `assets/SNTL-84-banner.jpg` via `git push` from local or GitHub web UI (upload file button in the `assets/` folder).
 
 ---
 
